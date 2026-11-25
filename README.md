@@ -1,1 +1,7 @@
-# eda-examen-final-estructuras-repo
+
+Repositorio de referencia:
+
+https://github.com/kth-competitive-programming/kactl
+
+
+
